@@ -161,7 +161,7 @@ document.body.appendChild(messageBtn);
 yesBtn.addEventListener("click", () => {
     title.textContent = "Yippeeee!";
 
-    catImg.src = "she_said_yes.png";
+    catImg.src = "she_said_yes.png?v=2";
 
     document.querySelector(".letter-window").classList.add("final");
 
@@ -193,7 +193,7 @@ yesBtn.addEventListener("click", () => {
 // "Message for you" button — redirects to external URL
 messageBtn.addEventListener("click", () => {
     const link = document.createElement("a");
-    link.href = "https://drive.google.com/file/d/1ISlqbjQ1bzwSuzbgpndcOo_n--0zZ2C_/view?usp=sharing";
+    link.href = "https://drive.google.com/file/d/1MJFiSjBJh3PvaAsXVHRUy_71q_L_exqu/view?usp=sharing";
     link.target = "_blank";
     link.rel = "noopener noreferrer";
     document.body.appendChild(link);
