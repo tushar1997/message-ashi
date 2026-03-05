@@ -1,5 +1,5 @@
-# v-message
-v message
+# message-ashi
+message-ashi
 
 ## Deploy to GitHub Pages
 
@@ -15,4 +15,4 @@ This repo is configured to auto-deploy to GitHub Pages using GitHub Actions.
 
 After the workflow finishes, the site will be available at:
 
-https://tushar1997.github.io/v-message/
+https://tushar1997.github.io/message-ashi/
