@@ -161,7 +161,7 @@ document.body.appendChild(messageBtn);
 yesBtn.addEventListener("click", () => {
     title.textContent = "Yippeeee!";
 
-    catImg.src = "she said yes.png";
+    catImg.src = "she_said_yes.png";
 
     document.querySelector(".letter-window").classList.add("final");
 
